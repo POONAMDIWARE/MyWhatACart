@@ -2,24 +2,24 @@
 <testng-results skipped="2" failed="0" ignored="0" total="4" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="3897" started-at="2024-04-21T13:27:32Z" finished-at="2024-04-21T13:27:36Z">
+  <suite name="Suite" duration-ms="3666" started-at="2024-04-22T17:09:43Z" finished-at="2024-04-22T17:09:47Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="3897" started-at="2024-04-21T13:27:32Z" finished-at="2024-04-21T13:27:36Z">
+    <test name="Test" duration-ms="3666" started-at="2024-04-22T17:09:43Z" finished-at="2024-04-22T17:09:47Z">
       <class name="com.Tests.LoginTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.Tests.LoginTest@1fffcd7]" name="setup" is-config="true" duration-ms="3548" started-at="2024-04-21T13:27:28Z" finished-at="2024-04-21T13:27:32Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Tests.LoginTest@bf9759]" name="setup" is-config="true" duration-ms="5080" started-at="2024-04-22T17:09:38Z" finished-at="2024-04-22T17:09:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test01()[pri:0, instance:com.Tests.LoginTest@1fffcd7]" name="test01" duration-ms="793" started-at="2024-04-21T13:27:32Z" finished-at="2024-04-21T13:27:33Z">
+        <test-method status="PASS" signature="test01()[pri:0, instance:com.Tests.LoginTest@bf9759]" name="test01" duration-ms="507" started-at="2024-04-22T17:09:43Z" finished-at="2024-04-22T17:09:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test01 -->
-        <test-method status="PASS" signature="test02()[pri:0, instance:com.Tests.LoginTest@1fffcd7]" name="test02" duration-ms="3096" started-at="2024-04-21T13:27:33Z" finished-at="2024-04-21T13:27:36Z">
+        <test-method status="PASS" signature="test02()[pri:0, instance:com.Tests.LoginTest@bf9759]" name="test02" duration-ms="3151" started-at="2024-04-22T17:09:44Z" finished-at="2024-04-22T17:09:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test02 -->
-        <test-method status="SKIP" signature="test03()[pri:0, instance:com.Tests.LoginTest@1fffcd7]" name="test03" duration-ms="0" started-at="2024-04-21T13:27:36Z" finished-at="2024-04-21T13:27:36Z">
+        <test-method status="SKIP" signature="test03()[pri:0, instance:com.Tests.LoginTest@bf9759]" name="test03" duration-ms="0" started-at="2024-04-22T17:09:47Z" finished-at="2024-04-22T17:09:47Z">
           <exception class="org.testng.SkipException">
             <message>
               <![CDATA[Testcase skipped]]>
@@ -62,7 +62,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test03 -->
-        <test-method status="SKIP" signature="test04()[pri:0, instance:com.Tests.LoginTest@1fffcd7]" name="test04" duration-ms="0" started-at="2024-04-21T13:27:36Z" finished-at="2024-04-21T13:27:36Z">
+        <test-method status="SKIP" signature="test04()[pri:0, instance:com.Tests.LoginTest@bf9759]" name="test04" duration-ms="0" started-at="2024-04-22T17:09:47Z" finished-at="2024-04-22T17:09:47Z">
           <exception class="org.testng.SkipException">
             <message>
               <![CDATA[Testcase skipped]]>
